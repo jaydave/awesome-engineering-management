@@ -645,6 +645,7 @@
 - [Foundations of Project Management by Google - Coursera](https://www.coursera.org/learn/project-management-foundations)
 - [Ace Manager Job Interview & Career (Engineering Tech & Other - Udemy](https://www.udemy.com/course/acemanager/)
 - [Practical Team Management for Software Engineers - PluralSight](https://www.pluralsight.com/courses/practical-team-management-software-engineers)
+- [TutorialSearch](https://tutorialsearch.io/browse/ai-machine-learning/data-engineering) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Podcasts
 
