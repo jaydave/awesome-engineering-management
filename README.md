@@ -166,6 +166,7 @@
 
 ### Building credibility
 
+- [What Makes a Great Manager of Software Engineers?](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/06/kalliamvakou-tse-2018.pdf)
 - [How to build trust on engineering teams | The Enterprisers Project](https://enterprisersproject.com/article/2020/6/how-build-trust-engineering-teams)
 - [How to Build Credibility at Work. Nothing arises suspicions about… | by Patricia Repolda | The Startup | Medium](https://medium.com/swlh/how-to-build-credibility-at-work-d48892ec8512)
 - [How To Become A Subject Matter Expert: 5 Ways To Establish Credibility And Executive Presence](https://www.forbes.com/sites/chriswestfall/2021/08/06/how-to-become-a-subject-matter-expert-5-ways-to-establish-credibility-and-executive-presence/)
